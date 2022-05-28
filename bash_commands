@@ -89,3 +89,5 @@ ls -la
 mv -t dinner/ minute.txt second.txt
 
 echo "готово!"
+
+запустить скрипт - bash bash_script.sh
