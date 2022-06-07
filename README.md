@@ -80,7 +80,7 @@
 вход в редактор  -   `nano bash_script.sh`
 
 
-#!/bin/bash
+`#!/bin/bash`
 
 cd happiness
 
@@ -98,4 +98,4 @@ mv -t dinner/ minute.txt second.txt
 
 echo "готово!"
 
-запустить скрипт - bash bash_script.sh
+запустить скрипт - `bash bash_script.sh`
