@@ -80,7 +80,7 @@
 вход в редактор  -   `nano bash_script.sh`
 
 
-#!/bin/bash
+#!/bin/bash\n
 cd happiness
 mkdir money time work
 cd time
